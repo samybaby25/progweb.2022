@@ -1,0 +1,133 @@
+ .menu{
+	/*display: grid;
+	grid-template-columns: auto auto auto;
+	background-color: white;
+	padding: 10px;
+	color: black;*/
+	
+	display: grid;
+grid-template-columns: auto auto auto auto;
+background-color: #2196F3;
+padding:10px;
+
+}
+
+.nav{
+	
+	padding: 5px;
+}
+
+.cores{
+	background-color: #f1f2f3;
+	padding: 15px;
+	width: 60px;
+	margin: 0 auto;
+	text-align: center;
+}
+.imgs{
+	display: grid;
+	margin: 0 auto;
+	grid-template-columns: auto auto auto auto; 
+	align-items: stretch;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /*.seletor {
+	width: 60px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.seletor div {
+	background-color: #AFA;
+}
+.seletor > div{
+	color: #00F;
+	font-size: 20px;
+}
+.container{
+height: 200px;
+display: grid;
+grid-template-columns: auto auto auto auto;
+background-color: #2196F3;
+padding:10px;
+
+display:flex;
+background-color: DodgerBlue;
+flex-direction: row-reverse;
+flew-wrap: wrap-reverse;
+flew-flow: row-reverse wrap;
+justity-content: space-around;
+lign-items: center;
+align-content: space-around;
+
+}
+
+.container > div {
+background-color: #f1f1f1;
+margin: 10px;
+padding: 20px;
+font-size: 30px;
+}
+
+.item{
+	background-color: rgba(255, 255, 255,0.8);
+	border: 1px solid rgba(0,0,0,0.8);
+	paddibg: 20px;
+	font-size: 30px;
+	text-align: center;
+}
+.item1{
+	grid-area: header;
+}
+.item2{
+	grid-area: menu;
+}
+.item3{
+	grid-area: main;
+}
+.item4{
+	grid-area: right;
+}.item5{
+	grid-area: footer;
+}
+
+.container{
+	display: grid;
+	grid-template-areas:
+	'header header header header header header'
+	'menu main main main right right'
+	'menu footer footer footer footer footer';
+	gap: 10px;
+	background-color: #2196f3;
+	padding: 10px; 
+	*/
